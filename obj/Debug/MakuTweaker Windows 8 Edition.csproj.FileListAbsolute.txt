@@ -1,0 +1,11 @@
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\bin\Debug\MakuTweaker Windows 8 Edition.exe
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\bin\Debug\MakuTweaker Windows 8 Edition.pdb
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker Windows 8 Edition.csproj.AssemblyReference.cache
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker_Windows_8_Edition.Form1.resources
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker_Windows_8_Edition.Properties.Resources.resources
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker Windows 8 Edition.csproj.GenerateResource.cache
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker Windows 8 Edition.csproj.CoreCompileInputs.cache
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker Windows 8 Edition.exe
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker Windows 8 Edition.pdb
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\bin\Debug\MakuTweaker Windows 8 Edition.exe.config
+G:\1МоиПрограммы\Проект\MakuTweaker Windows 8 Edition\obj\Debug\MakuTweaker_Windows_8_Edition.Form2.resources
